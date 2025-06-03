@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "umpatcher": {
+      "commandName": "Project",
+      "commandLineArgs": "2021.3.5f1-mbe 4516165c14930846992f9a7124462d39e667ac50 \"C:\\src\\unity-mono\" \"c:\\src\\dnSpy-Unity-mono-unity2021.xx\" --toolset v143",
+      "workingDirectory": "C:\\src\\dnSpy-Unity-mono-unity2021.xx"
+    }
+  }
+}
